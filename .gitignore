@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.env
+.streamlit/secrets.toml
+smartflow.db
+*.pyc
+.DS_Store

@@ -1,0 +1,9 @@
+FACTURE
+Fournisseur: Gamma Travel
+Date: 2026-09-20
+Numero: GT-5521
+Montant HT: 780.00 EUR
+TVA: 156.00 EUR
+Montant TTC: 936.00 EUR
+Categorie: Deplacements
+Objet: Billets de train et hebergement

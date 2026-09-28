@@ -1,0 +1,9 @@
+FACTURE
+Fournisseur: Beta Office
+Date: 2026-09-18
+Numero: BO-8842
+Montant HT: 420.00 EUR
+TVA: 84.00 EUR
+Montant TTC: 504.00 EUR
+Categorie: Fournitures
+Objet: Achat de fournitures de bureau
