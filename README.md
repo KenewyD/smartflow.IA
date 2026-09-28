@@ -6,7 +6,9 @@ Automatisation intelligente d'un processus de gestion de factures.
 
 Après déploiement, remplacez le lien ci-dessous :
 
-🔗 **Tester l'application :** `VOTRE_LIEN_STREAMLIT`
+🔗 **Tester l'application :** ## Démo
+
+🔗 [Tester l'application en ligne](https://smartflowia-rv42xc7hxrtaz9ejueefes.streamlit.app/)`
 
 ## Problème métier
 
